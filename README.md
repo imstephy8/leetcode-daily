@@ -1,6 +1,6 @@
 # LeetCode Daily
 
-My daily LeetCode practice repository for improving problem-solving skills, data structures, and algorithms.
+A daily LeetCode practice repository for improving problem-solving skills, data structures, and algorithms. Will be starting soon...
 
 ## Goal
 I am solving LeetCode problems consistently to strengthen my coding interview preparation and build better problem-solving habits.
